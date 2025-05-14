@@ -1,8 +1,8 @@
 Object detection using YOLOV11n in ROS2. Requires ROS2 Humble and Realsense Wrapper for ROS2.
 
-https://docs.ultralytics.com/models/yolo11/
-https://github.com/IntelRealSense/realsense-ros
-https://docs.ros.org/en/humble/index.html
+https://docs.ultralytics.com/models/yolo11/  
+https://github.com/IntelRealSense/realsense-ros  
+https://docs.ros.org/en/humble/index.html  
 
 1. Initialize RealSense node
 ros2 launch yolo_realsense realsense_launch.py
