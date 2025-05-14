@@ -10,7 +10,7 @@ ros2 launch yolo_realsense realsense_launch.py
 2. Run YOLO inference  
 ros2 run yolo_realsense yolo_processor
 
-3. Run RVIZ2 for visualization interace
+3. Run RVIZ2 for visualization interace  
 ros2 rviz2
 
 4. Load default configuration in RVIZ2
