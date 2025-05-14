@@ -4,13 +4,13 @@ https://do.s.ultralytics.com/models/yolo11/
 https://github.com/IntelRealSense/realsense-ros  
 https://docs.ros.org/en/humble/index.html  
 
-1. Initialize RealSense node
+1. Initialize RealSense node  
 ros2 launch yolo_realsense realsense_launch.py
 
-2. Run YOLO inference
+2. Run YOLO inference  
 ros2 run yolo_realsense yolo_processor
 
-3. Open RVIZ2
+3. Run RVIZ2 for visualization interace
 ros2 rviz2
 
 4. Load default configuration in RVIZ2
